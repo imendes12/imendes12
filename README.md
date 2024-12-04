@@ -2,36 +2,31 @@
 ------
 I'm Igor Mendes and this is my stack:
 ------
-Subtitle:
-- 🟩 Expertise
-- 🟦 Experience
-- 🟧 Knowledge
-------
 Backend:
 - Languages
-    - 🟩 PHP
+    - PHP
 - Frameworks
-    - 🟩 WordPress
-    - 🟦 Symfony
-    - 🟦 CodeIgniter
+    - WordPress
+    - Symfony
+    - CodeIgniter
 
 FrontEnd:
 - Languages
-    - 🟦 Javascript
-    - 🟦 CSS
+    - Javascript
+    - CSS
 - Frameworks
-    - 🟧 Vue
+    - Vue
 - Libraries
-    - 🟩 BootStrap
-    - 🟩 jQuery
+    - BootStrap
+    - jQuery
 
 Database:
-- 🟦 MySQL/MariaDB
-- 🟦 PostGreSQL
+- MySQL/MariaDB
+- PostGreSQL
 
 Tools:
-- 🟦 GIT/GitHub/GitLab
-- 🟧 GitHub Actions
-- 🟦 Docker
-- 🟦 SCRUM/AGILE
+- GIT/GitHub/GitLab
+- GitHub Actions
+- Docker
+- SCRUM/AGILE
 
